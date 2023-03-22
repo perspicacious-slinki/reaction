@@ -1,4 +1,4 @@
-https://img.shields.io/github/actions/workflow/status/perspicacious-slinki/reaction/node.js.yml?style=plastic
+[CI Badge](https://img.shields.io/github/actions/workflow/status/perspicacious-slinki/reaction/node.js.yml?style=plastic)
 
 # Getting Started with Create React App
 
